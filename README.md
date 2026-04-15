@@ -1,5 +1,7 @@
 # OnceDM
 
+[IT DOESN'T WORK ANYMORE. I'LL TRY TO WORK ON IT SOON.]
+
 OnceDM is a simple totally free - no premium - Chrome extension that helps you save Instagram DM view-once media.
 
 <img width="1465" height="740" alt="Image" src="https://github.com/user-attachments/assets/5d8ef668-96f9-4131-99b6-4518d21f4f9f" />
